@@ -6,3 +6,7 @@
 ###### this is the smallest header
 ### Lets add an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+### Some C# Code
+``` C#
+var myVar = "Hello, world!";
+```
